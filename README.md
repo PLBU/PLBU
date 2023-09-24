@@ -3,7 +3,6 @@
 🏫 Bandung Institute of Technology, Computer Science
 
 ## By the way here are some of my statistics 🚀
-![PLBU's github stats](https://github-readme-stats.vercel.app/api?username=PLBU&show_icons=true&theme=tokyonight)
 <br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=PLBU&theme=tokyonight" alt="mystreak"/>
 <br/>![PLBU's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PLBU&theme=tokyonight&layout=compact)
 
