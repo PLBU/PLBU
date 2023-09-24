@@ -1,5 +1,5 @@
 # Hi 👋 I am Renaldi Arlin, Junior Fullstack Developer
-🌱 Currently Learning iOS SwiftUI
+🌱 Currently Learning iOS SwiftUI <br/>
 🏫 Bandung Institute of Technology, Computer Science
 
 ## By the way here are some of my statistics 🚀
