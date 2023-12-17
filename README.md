@@ -1,4 +1,4 @@
-# Hi 👋 I am Renaldi Arlin, Junior Fullstack Developer
+# Hi 👋 I am Renaldi Arlin, Fullstack Developer
 ⽣ A Life Learner <br/>
 😇 Mastering the virtue of temperance <br/>
 🌱 Currently Learning iOS SwiftUI <br/>
